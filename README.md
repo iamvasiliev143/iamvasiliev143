@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamvasiliev143&theme=dark&show_icons=true&hide=issues,contribs)](https://github.com/zhurasique/) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zhurasique&theme=dark&hide=jupyter%20notebook,html,css,js,ts&langs_count=8&layout=compact)](https://github.com/iamvasiliev143/)
+
 <!--
 **iamvasiliev143/iamvasiliev143** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
